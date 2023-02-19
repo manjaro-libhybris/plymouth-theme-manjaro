@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Manjaro
+Description=Manjaro plymouth theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/manjaro
+ScriptFile=/usr/share/plymouth/themes/manjaro/manjaro.script
